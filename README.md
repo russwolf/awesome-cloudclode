@@ -41,6 +41,7 @@ Cloud Code is on [StackOverflow](https://stackoverflow.com/questions/tagged/goog
 
 ## Articles
 
+* 📰 [Streamlining Cloud Run development with Cloud Code](https://cloud.google.com/blog/products/application-development/cloud-run-is-integrated-with-cloud-code)
 * 📰 [Now, you can explore Google Cloud APIs with Cloud Code](https://cloud.google.com/blog/products/application-development/how-cloud-code-improves-app-dev-on-gcp)
 * 📰 [Stackdriver Logging comes to Cloud Code in Visual Studio Code](https://cloud.google.com/blog/products/application-development/stackdriver-logging-comes-to-cloud-code-in-visual-studio-code)
 * 📰 [Announcing Cloud Code—accelerating cloud-native application development](https://cloud.google.com/blog/products/devops-sre/announcing-cloud-code-accelerating-cloud-native-application-development)

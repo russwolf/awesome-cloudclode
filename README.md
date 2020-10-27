@@ -41,6 +41,7 @@ Cloud Code is on [StackOverflow](https://stackoverflow.com/questions/tagged/goog
 
 ## Articles
 
+* 📰 [Cloud Code makes YAML easy for hundreds of popular Kubernetes CRDs](https://cloud.google.com/blog/products/containers-kubernetes/cloud-code-features-expanded-support-for-kubernetes-crds)
 * 📰 [Streamlining Cloud Run development with Cloud Code](https://cloud.google.com/blog/products/application-development/cloud-run-is-integrated-with-cloud-code)
 * 📰 [Now, you can explore Google Cloud APIs with Cloud Code](https://cloud.google.com/blog/products/application-development/how-cloud-code-improves-app-dev-on-gcp)
 * 📰 [Stackdriver Logging comes to Cloud Code in Visual Studio Code](https://cloud.google.com/blog/products/application-development/stackdriver-logging-comes-to-cloud-code-in-visual-studio-code)

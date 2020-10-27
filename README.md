@@ -70,6 +70,7 @@ Cloud Code is on [StackOverflow](https://stackoverflow.com/questions/tagged/goog
 ## Help
 
 * Use the [`google-cloud-code` tag on StackOverflow](https://stackoverflow.com/questions/tagged/google-cloud-code)
+* Join the **#cloud-code** channel in the [Google Cloud Platform Slack community](https://join.slack.com/t/googlecloud-community/shared_invite/zt-erdf4ity-8ZMUQ18DYV~5hkbZ~gCswg) to ask questions, provide feedback, and get the latest Cloud Code news
 
 ## Container tools
 
